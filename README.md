@@ -52,5 +52,44 @@ Link do Protótipo do Figma:
 - Flutter
 
 ---
+## ▶️ Como executar o projeto
 
-ória Fernandes Lopes
+### 1. Instalar o Flutter
+
+Siga a documentação oficial:
+https://docs.flutter.dev/get-started/install
+
+---
+
+### 2. Clonar o repositório
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+---
+```bash
+cd nome-do-projeto
+```
+
+---
+
+### 4. Instalar as dependências
+
+```bash
+flutter pub get
+```
+
+---
+
+### 5. Executar o app
+
+```bash
+flutter run
+```
+
+---
+
+## 👩‍💻 Autora
+
+Pietra Vitória Fernandes Lopes

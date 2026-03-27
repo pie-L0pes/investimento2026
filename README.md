@@ -14,7 +14,7 @@ A partir desses dados, o aplicativo calcula:
 - Valor total acumulado sem juros
 - Valor total acumulado com juros compostos
 
-O objetivo é auxiliar na visualização do poder do investimento e do impacto dos juros compostos ao longo do tempo, incentivando a paciência como estratégia financeira.
+O objetivo é auxiliar na visualização do poder do investimento e do impacto dos juros compostos ao longo do tempo.
 
 ---
 

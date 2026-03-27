@@ -2,8 +2,7 @@
 
 ## 📌 Descrição do projeto
 
-Este projeto é um aplicativo mobile desenvolvido em Dart utilizando o Flutter que permite simular o crescimento de um investimento ao longo do tempo, como uma alternativa à compra financiada de bens não essenciais.
-
+Este projeto é um aplicativo mobile desenvolvido em Dart utilizando o Flutter que permite simular o crescimento de um investimento ao longo do tempo.
 O usuário pode inserir:
 
 - Valor do investimento mensal
